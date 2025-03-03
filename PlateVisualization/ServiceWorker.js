@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Volcaon Simulation-0.1";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js",
-    "Build/Builds.data",
-    "Build/Builds.wasm",
+    "Build/PlateVisualization.loader.js",
+    "Build/PlateVisualization.framework.js",
+    "Build/PlateVisualization.data",
+    "Build/PlateVisualization.wasm",
     "TemplateData/style.css"
 
 ];
